@@ -9,6 +9,11 @@ TaskMatrix is a commercial-grade Agile Project Management System inspired by Jir
 
 This project is being developed as the Prodesk Internship Capstone Project.
 
+
+---
+# Figma
+
+Link: https://www.figma.com/design/Tbf4zk66QpZSO7Td3ufatO/Sprint-13?node-id=3-988&t=yaCafB6e0dQtLDjt-1
 ---
 
 # Track
@@ -216,9 +221,6 @@ PUT /api/notifications/read
 
 ---
 
-# Figma
-
-Link: https://www.figma.com/design/Tbf4zk66QpZSO7Td3ufatO/Sprint-13?node-id=3-988&t=yaCafB6e0dQtLDjt-1
 
 # Author
 
