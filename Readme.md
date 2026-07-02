@@ -128,38 +128,6 @@ Full Stack Development
 
 ---
 
-# UI Wireframes
-
-## Login Screen
-
-![Login](assets/login-page.png)
-
----
-
-## Dashboard
-
-![Dashboard](assets/dashboard.png)
-
----
-
-## Kanban Board
-
-![Board](assets/kanban-board.png)
-
----
-
-# System Architecture
-
-![Architecture](assets/architecture-diagram.png)
-
----
-
-# Database Design (ER Diagram)
-
-![ER Diagram](assets/er-diagram.png)
-
----
-
 # MongoDB Collections
 
 Users
@@ -245,40 +213,6 @@ GET /api/comments/:taskId
 GET /api/notifications
 
 PUT /api/notifications/read
-
----
-
-# Installation
-
-Frontend
-
-```
-npm install
-npm run dev
-```
-
-Backend
-
-```
-npm install
-npm run dev
-```
-
----
-
-# Deployment
-
-Frontend
-
-Vercel
-
-Backend
-
-Render
-
-Database
-
-MongoDB Atlas
 
 ---
 
